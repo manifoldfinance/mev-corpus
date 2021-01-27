@@ -1,0 +1,19 @@
+{
+  "name": "mev-contracts-list",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "sam <sam@freighttrust.com>",
+  "homepage": "https://github.com/freight-trust/",
+  "license": "GPL-3.0",
+  "main": "index.json",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}

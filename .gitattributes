@@ -1,0 +1,25 @@
+# git attributes
+
+git_ssh text eol=lf
+repo text eol=lf
+hooks/* text eol=lf
+
+*.yml    text
+.gitattributes text
+KEY      text
+LICENSE* text
+
+# avoid merge conflicts in CHANGELOG
+/CHANGELOG.md		merge=union
+
+# git archive ignore 
+/.github            export-ignore
+/.editorconfig      export-ignore
+/.gitattributes     export-ignore
+/.gitignore         export-ignore
+
+# gpg related
+*.gpg filter=gpg diff=gpg
+*.asc filter=gpg diff=gpg
+
+date*.txt filter=dater
