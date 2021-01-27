@@ -2,6 +2,13 @@
   "name": "mev-corpus",
   "private": true,
   "devDependencies": {
-    "lerna": "^3.22.1"
+    "eslint": "^7.18.0",
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-plugin-json": "^2.1.2",
+    "eslint-plugin-json-format": "^2.0.1",
+    "json-to-js": "^1.0.2",
+    "lerna": "^3.22.1",
+    "prettier": "^2.2.1",
+    "prettier-plugin-solidity-refactor": "^1.0.0-alpha.14"
   }
 }
