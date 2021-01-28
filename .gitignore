@@ -23,3 +23,28 @@ var/
 
 .DS_Store
 node_modules
+
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pythonenv*
+
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+*.code-workspace
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
+
+.idea/
+
+# Gradle
+.idea/**/gradle.xml
+.idea/**/libraries
