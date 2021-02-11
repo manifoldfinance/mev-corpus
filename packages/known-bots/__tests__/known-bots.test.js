@@ -3,5 +3,5 @@
 const knownBots = require('..');
 
 describe('known-bots', () => {
-    it('needs tests');
+	it('needs tests');
 });
