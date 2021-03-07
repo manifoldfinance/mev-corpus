@@ -1,6 +1,6 @@
 {
   "name": "mev-corpus",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "private": true,
   "devDependencies": {
     "eslint": "^7.18.0",
