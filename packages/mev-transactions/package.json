@@ -1,0 +1,18 @@
+{
+  "name": "mev-ethereum-txs",
+  "version": "0.0.0",
+  "description": "mev transaction hashes",
+  "author": "sam <sam@freighttrust.com>",
+  "homepage": "https://github.com/manifoldfinance/mev-corpus",
+  "license": "GPL-3.0",
+  "main": "index.json",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
