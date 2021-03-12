@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "miner transaction hashes",
   "author": "sam <sam@freighttrust.com>",
-  "homepage": "https://github.com/sambacha/mev-corpus",
+  "homepage": "https://github.com/manifoldfinance/mev-corpus",
   "license": "GPL-3.0",
   "main": "index.json",
   "directories": {
