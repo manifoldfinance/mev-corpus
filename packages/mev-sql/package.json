@@ -1,0 +1,18 @@
+{
+  "name": "mev-sql-format",
+  "version": "0.0.0",
+  "description": "data format",
+  "author": "sam <sam@freighttrust.com>",
+  "homepage": "https://github.com/manifoldfinance/mev-corpus/packages/mev-sql",
+  "license": "GPL-3.0",
+  "main": "header.csv",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
