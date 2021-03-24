@@ -1,0 +1,12 @@
+{
+  "name": "mev-accounts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "list.eoa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "sam",
+  "license": "ISC"
+}
