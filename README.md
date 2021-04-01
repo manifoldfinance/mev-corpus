@@ -1,5 +1,7 @@
 # MEV Data Corpus
 
+[![linter](https://github.com/manifoldfinance/mev-corpus/actions/workflows/linter.yml/badge.svg?branch=master)](https://github.com/manifoldfinance/mev-corpus/actions/workflows/linter.yml)
+
 > Miner Extracted Value Data Corpus
 
 
