@@ -10,20 +10,12 @@
 
 | Package                                                                | Description                      |
 | :--------------------------------------------------------------------- | :------------------------------- |
-| **[chain-utils](packages/chain-utils/)**                               |                                  |
-| **[dune](packages/dune/)**                                             |                                  |
-| **[etherscan](packages/etherscan/)**                                   |                                  |
-| **[ignore-contracts](packages/ignore-contracts/)**                     |                                  |
-| **[mev-accounts](packages/mev-accounts/)**                             |                                  |
-| **[mev-bundle-gwei](packages/mev-bundle-gwei/)**                       |                                  |
-| **[mev-contracts-list](packages/mev-contracts-list/)**                 | > TODO: description              |
 | **[mev-corpus-exchanges](packages/exchange-accounts/)**                | list of known exchange addresses |
 | **[mev-ethereum-txs](packages/mev-transactions/)**                     | mev transaction hashes           |
 | **[mev-known-bots](packages/known-bots/)**                             | known bots                       |
 | **[mev-miner-txs](packages/mev-miner-txs/)**                           | miner transaction hashes         |
 | **[mev-pending-classification](packages/mev-pending-classification/)** | miner transaction hashes         |
 | **[mev-sql-format](packages/mev-sql/)**                                | data format                      |
-| **[solidity-utils](packages/solidity-utils/)**                         | > TODO: description              |
 | **[verified-contracts](packages/verified-contracts/)**                 | etherscan verified contracts     |
 
 <!-- END pkgtoc, keep to allow update -->
@@ -46,3 +38,7 @@ $ npm install mev-corpus
 ```bash
 $ <tbd>
 ```
+
+## License
+
+See Licenses in respective packages, otherwise Apache-2.0
