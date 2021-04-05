@@ -3,5 +3,5 @@
 module.exports = verifiedContracts;
 
 function verifiedContracts() {
-    // TODO
+	// TODO
 }

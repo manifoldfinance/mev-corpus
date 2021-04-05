@@ -1,4 +1,3 @@
-
 const multicallAddresses = {
   1: '0xeefba1e63905ef1d7acba5a8513c70307c1ce441',
   3: '0xF24b01476a55d635118ca848fbc7Dab69d403be3',

@@ -1,8 +1,8 @@
 {
-	delimiter: "",
-	newline: "",	
-	quoteChar: '"',
-	escapeChar: '"',
+	delimiter: " ",
+	newline: " ",
+	quoteChar: "''",
+	escapeChar: "",
 	header: false,
 	transformHeader: undefined,
 	dynamicTyping: false,

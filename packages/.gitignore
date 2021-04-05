@@ -1,0 +1,7 @@
+*.tgz
+*.tar.gz
+*.tar
+*.log
+node_modules
+.DS_Store
+
