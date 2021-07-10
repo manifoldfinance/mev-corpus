@@ -1,7 +1,7 @@
 {
   "name": "mev-corpus",
-  "version": "0.0.8",
-  "private": true,
+  "version": "0.0.12",
+  "private": false,
   "devDependencies": {
     "eslint": "^7.18.0",
     "eslint-config-prettier": "^7.2.0",
