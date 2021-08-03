@@ -4,6 +4,12 @@
 
 > Miner Extracted Value Data Corpus
 
+### Flashbots Bundle Archive ( as of August 2, 2021 )
+
+[https://mev-corpus.sfo3.digitaloceanspaces.com/mev-corpus-august2021.zip](https://mev-corpus.sfo3.digitaloceanspaces.com/mev-corpus-august2021.zip)
+
+- both `bundles` and `rogue bundles` are included in two seperate files (*.csv)
+
 <!-- START pkgtoc, keep to allow update -->
 
 **Packages**
@@ -29,15 +35,6 @@
     = mev-miner-txs
     = solidity-utils
 
-## Usage
-
-```bash
-$ npm install mev-corpus
-```
-
-```bash
-$ <tbd>
-```
 
 ## License
 
