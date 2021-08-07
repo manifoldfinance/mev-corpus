@@ -1,6 +1,14 @@
 # MEV Data Corpus
 
-[![linter](https://github.com/manifoldfinance/mev-corpus/actions/workflows/linter.yml/badge.svg?branch=master)](https://github.com/manifoldfinance/mev-corpus/actions/workflows/linter.yml)
+> This repo is in the middle of being made actually usable as opposed to just a cleaned up data dump
+
+### Citation in published works
+```latex
+ @article{MEV Data Corpus, 
+          title={MEV Data Corpus: Identifiying Contracts, Addresses, Transactions and proccess used in MEV}, 
+          url={https://github.com/manifoldfinance/mev-corpus}, 
+          author={Bacha, Sam}} 
+```
 
 > Miner Extracted Value Data Corpus
 
