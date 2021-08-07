@@ -1,3 +1,7 @@
+*.zip
+*.tar.gz
+*.tgz
+
 *.log
 __pycache__/
 *.py[cod]
@@ -45,3 +49,4 @@ pythonenv*
 # Gradle
 .idea/**/gradle.xml
 .idea/**/libraries
+.DS_Store

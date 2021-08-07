@@ -1,6 +1,6 @@
 {
   "name": "mev-sql-format",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "data format",
   "author": "sam <sam@freighttrust.com>",
   "homepage": "https://github.com/manifoldfinance/mev-corpus/packages/mev-sql",

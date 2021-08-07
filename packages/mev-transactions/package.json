@@ -1,6 +1,6 @@
 {
   "name": "mev-ethereum-txs",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "mev transaction hashes",
   "author": "sam <sam@freighttrust.com>",
   "homepage": "https://github.com/manifoldfinance/mev-corpus",

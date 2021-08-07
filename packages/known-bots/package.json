@@ -1,6 +1,6 @@
 {
   "name": "mev-known-bots",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "known bots",
   "author": "sam <sam@freighttrust.com>",
   "homepage": "https://github.com/manifoldfinance/mev-corpus",
