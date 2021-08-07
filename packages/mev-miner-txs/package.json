@@ -1,6 +1,6 @@
 {
   "name": "mev-miner-txs",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "miner transaction hashes",
   "author": "sam <sam@freighttrust.com>",
   "homepage": "https://github.com/manifoldfinance/mev-corpus",

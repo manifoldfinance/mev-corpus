@@ -1,6 +1,6 @@
 {
   "name": "mev-corpus-honeypot",
-  "version": "0.0.14",
+  "version": "0.1.0",
   "main": "index.js",
   "type": "module",
   "description": "MEV Honeypot Contract Addresses",
@@ -13,7 +13,13 @@
     "url": "git+https://github.com/manifoldfinance/mev-corpus.git",
     "directory": "packages/mev-honeypot"
   },
-  "keywords": ["ethereum", "MEV", "defi", "cryptocurrencies", "blockchain"],
+  "keywords": [
+    "ethereum",
+    "MEV",
+    "defi",
+    "cryptocurrencies",
+    "blockchain"
+  ],
   "author": "sam bacha <sam@manifoldfinance.com>",
   "license": "Apache-2.0",
   "devDependencies": {
