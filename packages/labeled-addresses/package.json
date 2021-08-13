@@ -1,0 +1,26 @@
+{
+  "name": "@openmev/labeled-addresses",
+  "version": "0.1.0",
+  "description": "addresses with labels via etherscan",
+  "author": "sam bacha <sam@manifoldfinance.com>",
+  "homepage": "https://github.com/manifoldfinance/mev-corpus#readme",
+  "license": "GPL-2.0-Only",
+  "main": "index.json",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manifoldfinance/mev-corpus.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/manifoldfinance/mev-corpus/issues"
+  }
+}
