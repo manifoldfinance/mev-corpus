@@ -1,11 +1,12 @@
-/**
- * Addresses which should be ignored when used as the target of a transaction
- * @property {address} ContractIdentifier - Contract Platform
- */
+// @license MIT
+// @version 2021.08
 
-// TODO
 'use strict';
-
+/**
+* @summary Addresses which should be ignored when used as the target of a transaction
+* @property {address} ContractIdentifier - Contract Platform
+* @type {string}
+*/
 module.exports = {
 	'1inch': '0x11111254369792b2ca5d084ab5eea397ca8fa48b',
 	'1inch v2': '0x111111125434b319222cdbf8c261674adb56f3ae',
@@ -24,3 +25,4 @@ module.exports = {
 	'Zerion SDK': '0xb2be281e8b11b47fec825973fc8bb95332022a54',
 	'KeeperDAO': '0x3d71d79c224998e608d03c5ec9b405e7a38505f0'
 };
+// @export safe_ignore
