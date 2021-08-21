@@ -1,11 +1,7 @@
 {
-  "name": "rogue-bundles",
+  "name": "@openmev/rogue-bundles",
   "version": "0.1.0",
   "description": "rogue miner bundles",
-  "keywords": [
-    "mev",
-    "ethereum"
-  ],
   "author": "sam bacha <sam@freighttrust.com>",
   "homepage": "https://github.com/manifoldfinance/mev-corpus#readme",
   "license": "Apache-2.0",
@@ -17,17 +13,23 @@
   "files": [
     "lib"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/manifoldfinance/mev-corpus.git"
-  },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "echo \"Error: run tests from root\" && exit 0"
   },
   "bugs": {
     "url": "https://github.com/manifoldfinance/mev-corpus/issues"
   },
   "dependencies": {
     "csv-parser": "^3.0.0"
+  },
+  "keywords": ["ethereum", "solidity", "blockchain", "trading", "mev", "flashbots", "trading"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manifoldfinance/mev-corppus.git",
+    "directory": "packages/mev-accounts"
+  },
+  "publishConfig": {
+    "access": "public"
   }
+}
 }
