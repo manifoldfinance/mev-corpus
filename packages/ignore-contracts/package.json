@@ -1,12 +1,12 @@
 {
   "name": "ignore-contracts",
   "version": "0.1.0",
-  "description": "",
+  "description": "list of contract addresses on etheruem mainnet",
   "main": "safe_ignore.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"no test specified\" && exit 0"
   },
-  "keywords": [],
-  "author": "sam",
-  "license": "ISC"
+  "keywords": ["flashbots", "ethereum", "mev", "cryptocurrency"],
+  "author": "SEE CONTRIBUTORS",
+  "license": "MIT"
 }
