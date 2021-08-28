@@ -1,4 +1,10 @@
-[
+// @file knownBots
+// @license Apache-2.0
+// @version 0.1.0
+
+'use strict';
+
+module.exports = { knownBots } = [
   "0x000000005736775feb0c8568e7dee77222a26880",
   "0x00000000003b3cc22af3ae1eac0440bcee416b40",
   "0x0000000000007f150bd6f54c40a34d7c3d5e9f56",
@@ -56,4 +62,7 @@
   "0x1b1e08043553cad2a3b82bfc2df40f7dcc0d58aa",
   "0x18f60c7bd9fb6619b807d8d81334f1760c69fb59",
   "0xb87c7d5a5ff0092cf427855c1ea9b7708d717292"
-]
+];
+
+export default knownBots
+// @exports knownBots
