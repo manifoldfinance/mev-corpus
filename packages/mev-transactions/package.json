@@ -1,10 +1,8 @@
 {
-  "name": "mev-ethereum-txs",
-  "version": "0.0.1",
+  "name": "@openmev/mev-ethereum-txs",
+  "version": "0.1.0",
   "description": "mev transaction hashes",
-  "author": "sam <sam@freighttrust.com>",
   "homepage": "https://github.com/manifoldfinance/mev-corpus",
-  "license": "GPL-3.0",
   "main": "index.json",
   "directories": {
     "lib": "lib",
@@ -16,6 +14,18 @@
     "index.json"
   ],
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "echo \"Error: run tests from root\" && exit 0"
+  },
+  "keywords": ["ethereum", "solidity", "blockchain", "trading", "mev", "flashbots", "trading"],
+  "author": "contributors <community@openmev.org>",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manifoldfinance/mev-corppus.git",
+    "directory": "packages/mev-transactions"
+  },
+  "publishConfig": {
+    "access": "public"
   }
+}
 }

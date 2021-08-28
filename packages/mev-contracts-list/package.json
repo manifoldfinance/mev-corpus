@@ -1,10 +1,8 @@
 {
-  "name": "mev-contracts-list",
-  "version": "0.0.0",
+  "name": "@openmev/mev-contracts-list",
+  "version": "0.1.0",
   "description": "> TODO: description",
-  "author": "sam <sam@freighttrust.com>",
   "homepage": "https://github.com/freight-trust/",
-  "license": "GPL-3.0",
   "main": "index.json",
   "directories": {
     "lib": "lib",
@@ -15,5 +13,16 @@
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "keywords": ["ethereum", "solidity", "blockchain", "trading", "mev", "flashbots", "trading"],
+  "author": "contributors <community@openmev.org>",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manifoldfinance/mev-corppus.git",
+    "directory": "packages/mev-contracts-list"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

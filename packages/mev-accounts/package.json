@@ -1,12 +1,20 @@
 {
-  "name": "mev-accounts",
+  "name": "@openmev/mev-accounts",
   "version": "1.0.0",
-  "description": "",
+  "description": "associated accounts",
   "main": "list.eoa.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "sam",
-  "license": "ISC"
+  "keywords": ["ethereum", "solidity", "blockchain", "trading", "mev", "flashbots", "trading"],
+  "author": "contributors <community@openmev.org>",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manifoldfinance/mev-corppus.git",
+    "directory": "packages/mev-accounts"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
 }

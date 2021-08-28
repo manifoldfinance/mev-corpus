@@ -1,12 +1,20 @@
 {
-  "name": "mev-bundle-gwei",
-  "version": "1.0.0",
+  "name": "@openmev/mev-bundle-gwei",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "sam",
-  "license": "ISC"
+  "keywords": ["ethereum", "solidity", "blockchain", "trading", "mev", "flashbots", "trading"],
+  "author": "contributors <community@openmev.org>",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manifoldfinance/mev-corppus.git",
+    "directory": "packages/mev-bundle-gwei"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
 }

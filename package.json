@@ -11,4 +11,18 @@
     "lerna": "^3.22.1",
     "prettier": "^2.2.1"
   }
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manifoldfinance/mev-corpus.git"
+  },
+  "keywords": [],
+  "author": "sam bacha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manifoldfinance/mev-corpus/issues"
+  },
+  "homepage": "https://github.com/manifoldfinance/mev-corpus#readme"
 }

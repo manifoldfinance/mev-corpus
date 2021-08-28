@@ -1,10 +1,8 @@
 {
-  "name": "mev-sql-format",
-  "version": "0.0.0",
-  "description": "data format",
-  "author": "sam <sam@freighttrust.com>",
+  "name": "@openmev/mev-sql-format",
+  "version": "0.1.0",
+  "description": "WIP / TODO data format",
   "homepage": "https://github.com/manifoldfinance/mev-corpus/packages/mev-sql",
-  "license": "GPL-3.0",
   "main": "header.csv",
   "directories": {
     "lib": "lib",
@@ -15,5 +13,16 @@
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "keywords": ["ethereum", "solidity", "blockchain", "trading", "mev", "flashbots", "trading"],
+  "author": "contributors <community@openmev.org>",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manifoldfinance/mev-corppus.git",
+    "directory": "packages/mev-accounts"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
