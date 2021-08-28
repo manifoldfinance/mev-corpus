@@ -1,23 +1,22 @@
-// @config webpack 
-const json5 = require("json5");
+// @config webpack
+const json5 = require('json5');
 const path = require('path');
 
 module.exports = {
-    entry: './index.js',
+	entry: './index.js',
 	output: {
 		filename: 'main.js',
 		path: path.resolve(__dirname, 'dist'),
- },
+	},
 	module: {
 		rules: [
 			{
 				test: /\.json5$/,
-				type: "json",
+				type: 'json',
 				parser: {
-					parse: json5.parse
+					parse: json5.parse,
 				},
 			},
 		],
-
-	}
+	},
 };

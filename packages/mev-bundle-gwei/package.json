@@ -6,7 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["ethereum", "solidity", "blockchain", "trading", "mev", "flashbots", "trading"],
+  "keywords": [
+    "ethereum",
+    "solidity",
+    "blockchain",
+    "trading",
+    "mev",
+    "flashbots",
+    "trading"
+  ],
   "author": "contributors <community@openmev.org>",
   "license": "Apache-2.0",
   "repository": {

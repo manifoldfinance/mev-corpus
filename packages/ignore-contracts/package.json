@@ -6,7 +6,12 @@
   "scripts": {
     "test": "echo \"no test specified\" && exit 0"
   },
-  "keywords": ["flashbots", "ethereum", "mev", "cryptocurrency"],
+  "keywords": [
+    "flashbots",
+    "ethereum",
+    "mev",
+    "cryptocurrency"
+  ],
   "author": "SEE CONTRIBUTORS",
   "license": "MIT"
 }
