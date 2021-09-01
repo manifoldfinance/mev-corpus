@@ -1,18 +1,8 @@
 {
-<<<<<<< HEAD
-  "name": "rogue-bundles",
-  "version": "0.1.0",
-  "description": "rogue miner bundles",
-  "keywords": [
-    "mev",
-    "ethereum"
-  ],
-=======
   "name": "@openmev/rogue-bundles",
   "version": "0.1.0",
   "description": "rogue miner bundles",
->>>>>>> a4fab6d2c0d39c87fb602ab537d05f353fd4619f
-  "author": "sam bacha <sam@freighttrust.com>",
+  "author": "sam bacha <sam@manifoldfinance.com>",
   "homepage": "https://github.com/manifoldfinance/mev-corpus#readme",
   "license": "Apache-2.0",
   "main": "lib/rogue-bundles.js",
@@ -23,28 +13,6 @@
   "files": [
     "lib"
   ],
-<<<<<<< HEAD
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/manifoldfinance/mev-corpus.git"
-  },
-  "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
-=======
-  "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 0"
->>>>>>> a4fab6d2c0d39c87fb602ab537d05f353fd4619f
-  },
-  "bugs": {
-    "url": "https://github.com/manifoldfinance/mev-corpus/issues"
-  },
-  "dependencies": {
-    "csv-parser": "^3.0.0"
-<<<<<<< HEAD
-  }
-}
-=======
-  },
   "keywords": ["ethereum", "solidity", "blockchain", "trading", "mev", "flashbots", "trading"],
   "repository": {
     "type": "git",
@@ -55,5 +23,3 @@
     "access": "public"
   }
 }
-}
->>>>>>> a4fab6d2c0d39c87fb602ab537d05f353fd4619f
