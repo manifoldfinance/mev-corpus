@@ -12,15 +12,15 @@
     "prettier": "^2.2.1"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+   "format": "npx prettier --config .prettierrc.json --write ."
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/manifoldfinance/mev-corpus.git"
   },
   "keywords": [],
-  "author": "sam bacha",
-  "license": "ISC",
+  "author": "OpenMEV <noreply@openmev.org>",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/manifoldfinance/mev-corpus/issues"
   },

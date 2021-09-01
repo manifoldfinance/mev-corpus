@@ -54,3 +54,4 @@ pythonenv*
 .idea/**/gradle.xml
 .idea/**/libraries
 .DS_Store
+lerna-debug.log
