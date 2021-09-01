@@ -18,8 +18,5 @@ LICENSE* text
 /.gitattributes     export-ignore
 /.gitignore         export-ignore
 
-# gpg related
-*.gpg filter=gpg diff=gpg
-*.asc filter=gpg diff=gpg
 
 date*.txt filter=dater
