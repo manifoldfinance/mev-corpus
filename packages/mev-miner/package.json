@@ -1,0 +1,36 @@
+{
+  "name": "@openmev/miners",
+  "version": "0.1.0",
+  "description": "miner addresses",
+  "homepage": "https://github.com/manifoldfinance/mev-corpus",
+  "main": "eth.miners.json",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 0"
+  },
+  "keywords": [
+    "ethereum",
+    "solidity",
+    "blockchain",
+    "trading",
+    "mev",
+    "flashbots",
+    "trading"
+  ],
+  "author": "contributors <community@openmev.org>",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manifoldfinance/mev-corppus.git",
+    "directory": "packages/mev-miner"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
